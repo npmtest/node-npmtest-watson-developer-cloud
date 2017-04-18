@@ -1,7 +1,10 @@
-# test coverage for  [watson-developer-cloud (v2.28.1)](https://github.com/watson-developer-cloud/node-sdk#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-watson-developer-cloud.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-watson-developer-cloud) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-watson-developer-cloud.svg)](https://travis-ci.org/npmtest/node-npmtest-watson-developer-cloud)
+# npmtest-watson-developer-cloud
+
+#### test coverage for  [watson-developer-cloud (v2.28.1)](https://github.com/watson-developer-cloud/node-sdk#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-watson-developer-cloud.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-watson-developer-cloud) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-watson-developer-cloud.svg)](https://travis-ci.org/npmtest/node-npmtest-watson-developer-cloud)
+
 #### Client library to use the IBM Watson Services and AlchemyAPI
 
-[![NPM](https://nodei.co/npm/watson-developer-cloud.png?downloads=true)](https://www.npmjs.com/package/watson-developer-cloud)
+[![NPM](https://nodei.co/npm/watson-developer-cloud.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/watson-developer-cloud)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-watson-developer-cloud/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-watson-developer-cloud/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-watson-developer-cloud/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-watson-developer-cloud/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-watson-developer-cloud/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-watson-developer-cloud/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-watson-developer-cloud/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-watson-developer-cloud/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-watson-developer-cloud/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-watson-developer-cloud/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-watson-developer-cloud%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-watson-developer-cloud/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-watson-developer-cloud/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-watson-developer-cloud/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-watson-developer-cloud/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-watson-developer-cloud%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-watson-developer-cloud/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-watson-developer-cloud/build/test-report.html](https://npmtest.github.io/node-npmtest-watson-developer-cloud/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-watson-developer-cloud/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-watson-developer-cloud/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-watson-developer-cloud/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-watson-developer-cloud/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-watson-developer-cloud/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-watson-developer-cloud/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-watson-developer-cloud/build/screenCapture.npmPackageListing.svg)
 
@@ -34,16 +43,13 @@
     },
     "contributors": [
         {
-            "name": "German Attanasio Ruiz",
-            "email": "germanatt@us.ibm.com"
+            "name": "German Attanasio Ruiz"
         },
         {
-            "name": "Nathan Friedly",
-            "email": "nfriedly@us.ibm.com"
+            "name": "Nathan Friedly"
         },
         {
-            "name": "Jeff Stylos",
-            "email": "jsstylos@us.ibm.com"
+            "name": "Jeff Stylos"
         }
     ],
     "dependencies": {
@@ -135,21 +141,17 @@
     "main": "./index",
     "maintainers": [
         {
-            "name": "germanattanasio",
-            "email": "germanattanasio@gmail.com"
+            "name": "germanattanasio"
         },
         {
-            "name": "kognate",
-            "email": "kognate@gmail.com"
+            "name": "kognate"
         },
         {
-            "name": "nfriedly",
-            "email": "nathan@nfriedly.com"
+            "name": "nfriedly"
         }
     ],
     "name": "watson-developer-cloud",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/watson-developer-cloud/node-sdk.git"

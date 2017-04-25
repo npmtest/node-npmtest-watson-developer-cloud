@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [watson-developer-cloud (v2.28.1)](https://github.com/watson-developer-cloud/node-sdk#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-watson-developer-cloud.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-watson-developer-cloud) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-watson-developer-cloud.svg)](https://travis-ci.org/npmtest/node-npmtest-watson-developer-cloud)",
+    "description": "#### basic test coverage for  [watson-developer-cloud (v2.29.0)](https://github.com/watson-developer-cloud/node-sdk#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-watson-developer-cloud.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-watson-developer-cloud) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-watson-developer-cloud.svg)](https://travis-ci.org/npmtest/node-npmtest-watson-developer-cloud)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "utility2": "kaizhu256/node-utility2#alpha",
